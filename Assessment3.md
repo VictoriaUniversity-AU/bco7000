@@ -18,11 +18,18 @@ You are asked to present this solution to the management to present them with op
 **List of data9sets to choose:**
 
 [IKEA](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-11-03/readme.md)
+
 [Food and CO2](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-02-18/readme.md)
+
 [RAP artists](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-04-14/readme.md)
+
 [Broadway](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-04-28/readme.md)
+
 [Animal shelter](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-07-21/readme.md)
+
 [EU energy](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-08-04/readme.md)
+
 [US Spending on Kids](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-09-15/readme.md)
+
 [Phone usage](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-11-10/readme.md)
 
