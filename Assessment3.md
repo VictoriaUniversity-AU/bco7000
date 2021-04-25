@@ -15,25 +15,14 @@ You are asked to present this solution to the management to present them with op
 1. Written report as a `.rmd` document that clearly shows all steps in data wrangling, data viz, modeling and model assessment.
 2. Video presentation to stakeholders and supporting slides. Slides can be done in PowerPoint or using R tools (e.g. [`xaringam package`](https://bookdown.org/yihui/rmarkdown/xaringan.html)
 
-**List of datasets to choose:**
+**List of data9sets to choose:**
 
+[IKEA](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-11-03/readme.md)
+[Food and CO2](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-02-18/readme.md)
+[RAP artists](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-04-14/readme.md)
+[Broadway](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-04-28/readme.md)
+[Animal shelter](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-07-21/readme.md)
+[EU energy](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-08-04/readme.md)
+[US Spending on Kids](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-09-15/readme.md)
+[Phone usage](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-11-10/readme.md)
 
-The data provided are the sales records of a retail business in February 2021. These data were extracted from different systems therefore they are in different formats:
-
-pc.json: A JSON dataset extracted from the ERP system which contains the product categories
-orders.csv: Order information including customer names and shipping addresses in the duration
-order_details.csv: The details of orders
-Examine the datasets to understand what data you have and what their information they have. Then, write Python programs to find out the facts required by the management as listed below.
-
-
-
-### Questions
-Based on the freights spent on these orders, please estimate the budget of monthly freights for this business.
-Try to find the countries with the most orders, which implies the strong markets that the business should focus on.
-The business wants to reward customers who buy frequently by rewarding them with discount coupons. Find 3 customers who have the highest number of orders in the dataset.
-Which product category has the highest sales revenue? These products are popular and there may be implications for business operations. (Note: The total sales of a product is the sum of the values of unit price * quantity in all relevant orders. The sales of a product category are the sum of the total sales of the products in the category.)
-
-### Requirements
-(For Q4) You need to match the product category ID to its name using a program. Merely reporting the product category ID is not acceptable.
-The facts should be outputted to the screen in a format of your discretion, however it should be clear and understandable.
-Organise your code logically in multiple code files so that other business analysts can understand your code.
