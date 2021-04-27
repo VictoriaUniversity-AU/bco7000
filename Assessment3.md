@@ -12,7 +12,7 @@ You are asked to present this solution to the management to present them with op
 - `tidyverse`
 
 - `tidymodels`
-- 
+
 **What to submit:**
 
 1. Written report as a `.rmd` document that clearly shows all steps in data wrangling, data viz, modeling and model assessment.
