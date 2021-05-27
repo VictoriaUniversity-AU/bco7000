@@ -105,19 +105,39 @@ Display the types of variables in the dataset using `skimr` package
 - The Author is your name and student id
 - The date is the date you created he document
 
-You will need to answer each task using the text/graph narration and include R chunks to show how you get them.
+- Create the heading of the first level and call it Data viz and wrangling
 
-2. Create the heading of the first level and call it Data wrangling
-
-3. Insert an R chunk and create a variable with this dataset
+- Insert an R chunk and create a variable with this dataset
 https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2018/2018-09-04/fastfood_calories.csv
 
 The name of the variable should be `fastfood`
 
-TO BE ADVISED
-
+2. Using `skimr` package provide a list of variables which types needs to be changed 
 Use R function to identify the types of variables. What changes do you need to do to correctly record the types of variables? 
+Does all variables have sufficient range (=variability) to be included? Which variable can be removed?
 
-Which variables should be factors?
+Write 2-3 sentences justifying your view on the above.
+
+3. Identify variable(s) which should be factors and transform their type into a factor variable.
+
+4. Replace NA in the dataset with 0 across all variables
+
+5. Create two new variables:
+
+Read about `cut_number()` function using Help and add a new variable to the dataset `calories_type`. Use the function arguments to add labels `c("low", "med", "high")` and make the dataset ordered. 
+
+Do not forget to save the updated dataset. 
+
+6. Create a dataviz that shows the distribution of `calories_type` in food items for each type of restaurant. Think carefully about the choice of data viz. Use facets, coordinates and theme layers to make your data viz visually appealing and meaningful. Use factors related data viz functions.
+
+7. The second variable should show the percentage of `trans_fat` in `total_fat`. Add the variable to the dataset and call it `trans_fat_percent`. Do not forget to save the updated dataset. 
+
+8. Create a dataviz that shows the distribution of `trans_fat` in food items for each type of restaurant. Think carefully about the choice of data viz. Use facets, coordinates and theme layers to make your data viz visually appealing and meaningful.
+
+9. Calculate the average (mean) total_fat for each type of restaurant. No need to save it as a variable.
+
+11. And create a dataviz that allow to compare different restaurants on this. You can present it on one dataviz (= no facets). 
+
+Think carefully about the choice of data viz. Use coordinates and theme layers to make your data viz visually appealing and meaningful. 
 
 
