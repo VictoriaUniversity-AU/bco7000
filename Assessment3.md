@@ -1,4 +1,4 @@
-## Assessment 3
+## Assessment 3 - CORRECT
 
 This assessment is designed to give you exposure to the real-world environment of business analytics and stimulate your creativity as well as your ability to research and 
 solve business problems. 
@@ -11,14 +11,12 @@ You are asked to present this solution to the management to present them with op
 
 - `tidyverse`
 
-- `tidymodels`
-
 **What to submit:**
 
 1. Written report as a `.rmd` document that clearly shows all steps in data wrangling, data viz, modeling and model assessment.
 2. Video presentation to stakeholders and supporting slides. Slides can be done in PowerPoint or using R tools (e.g. [`xaringam package`](https://bookdown.org/yihui/rmarkdown/xaringan.html)
 
-**List of data9sets to choose:**
+**List of datasets to choose:**
 
 (Wine reviews)[https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009]
 
