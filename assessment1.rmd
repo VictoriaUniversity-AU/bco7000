@@ -124,7 +124,7 @@ Write 2-3 sentences justifying your view on the above.
 
 5. Create two new variables:
 
-Read about `cut_number()` function using Help and add a new variable to the dataset `calories_type`. Use the function arguments to add labels `c("low", "med", "high")` and make the dataset ordered. 
+Read about `cut_number()` function using Help and add a new variable to the dataset `calories_type`. Use `calories` variable for `cut_number()` function to split it into 3 categories `n=3`, add labels `labels=c("low", "med", "high")` and make the dataset ordered. 
 
 Do not forget to save the updated dataset. 
 
@@ -134,9 +134,9 @@ Do not forget to save the updated dataset.
 
 8. Create a dataviz that shows the distribution of `trans_fat` in food items for each type of restaurant. Think carefully about the choice of data viz. Use facets, coordinates and theme layers to make your data viz visually appealing and meaningful.
 
-9. Calculate the average (mean) total_fat for each type of restaurant. No need to save it as a variable.
+9. Calculate the average (mean)  `total_fat` for each type of restaurant. No need to save it as a variable.
 
-11. And create a dataviz that allow to compare different restaurants on this. You can present it on one dataviz (= no facets). 
+11. And create a dataviz that allow to compare different restaurants on this variable (`total_fat`). You can present it on one dataviz (= no facets). 
 
 Think carefully about the choice of data viz. Use coordinates and theme layers to make your data viz visually appealing and meaningful. 
 
