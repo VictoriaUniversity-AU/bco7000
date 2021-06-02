@@ -18,28 +18,6 @@ You are asked to present this solution to the management to present them with op
 
 **List of datasets to choose:**
 
-(Wine reviews)[https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009]
-
-(Happiness index)[https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021]
-
-(IBM HR Analytics Employee Attrition & Performance)[https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset]
-
-(Yelp Dataset)[https://www.kaggle.com/yelp-dataset/yelp-dataset?select=yelp_academic_dataset_review.json]
-
-(Goodreads-books)[https://www.kaggle.com/jealousleopard/goodreadsbooks]
-
-(Spotify)[https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks]
-
-(Mall Customer Segmentation Data)[https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python]
-
-(Medical Appointment No Shows)[https://www.kaggle.com/joniarroba/noshowappointments]
-
-(Used Cars)[https://www.kaggle.com/austinreese/craigslist-carstrucks-data]
-
-(Women's E-Commerce Clothing Reviews)[https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews]
-
-(Where it Pays to Attend College)[https://www.kaggle.com/wsj/college-salaries]
-
 [IKEA](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-11-03/readme.md)
 
 [Food and CO2](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-02-18/readme.md)
