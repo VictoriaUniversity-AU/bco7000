@@ -36,7 +36,7 @@ your student id in bold font as level 2 heading (2 marks)
 
 Separate with a solid line (1 mark)
 
-Include the title “Assignment 1” as level 1 heading (1 mark)
+Include the title “Assignment 2” as level 1 heading (1 mark)
 
 Separate with a solid line (1 mark)
 
@@ -54,7 +54,7 @@ For all tables below, you need to use the RMarkdown functionality to present tab
 
 3. Generate the general statistics of the dataset using `summary()` and `skim()` function (2 mark).
 
-4. Wha is the number of people who celebrate?
+4. What is the number of people who celebrate?
 
 5. What are categories and stats for each main dish served and the method it is prepared?
 
