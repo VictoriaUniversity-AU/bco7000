@@ -18,20 +18,18 @@ You are asked to present this solution to the management to present them with op
 
 **List of datasets to choose:**
 
+*If your dataset includes several files, you do NOT nee to use ALL files. You can select one and use only one for your assignment*
+
 [IKEA](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-11-03/readme.md)
 
-[Food and CO2](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-02-18/readme.md)
+[French Train stats](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-02-26)
 
-[RAP artists](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-04-14/readme.md)
+[Wine ratings](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-05-28)
 
 [Broadway](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-04-28/readme.md)
 
-[Animal shelter](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-07-21/readme.md)
+[Dairy production & Consumption](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-01-29
 
-[EU energy](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-08-04/readme.md)
+[Ramen rating](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-06-04)
 
-[US Spending on Kids](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-09-15/readme.md)
-
-[Phone usage](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-11-10/readme.md)
-
-https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-01-26/readme.md
+[Australian salaries](https://github.com/rfordatascience/tidytuesday/tree/master/data/2018/2018-04-23)
