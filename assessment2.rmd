@@ -13,13 +13,15 @@ Tasks:
 
 See the definition of variables in a separate section “Data dictionary”
 
-To import the data use https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2018-11-20/thanksgiving_meals.csv
+To import the data use 
+
+https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2018/2018-11-20/thanksgiving_meals.csv
 
 --------
 
 Setup: 5 marks
 
-1. Create (=clone a repository) a separate R Project for the assignment and call it “Practical assignment”. Please store all your files there.
+1. Use the same (=clone a repository) R Project for the assignment2 as you created for Assignment1. Create a new .rmd document "Assignment2.rmd"
 
 2. Use the provided csv file to complete the tasks below. The file needs to be uploaded to your project. You can use the variable name of your choice.
 
@@ -30,7 +32,7 @@ Your explanation of the data insights is VERY important as well as your code
 
 ### Part 1: formatting RMarkdown document  (2 marks)
 
-1. Create an Rmarkdown document with webpage as output
+1. Create an Rmarkdown document with webpage as output (same as in setup)
 
 At the start of the output document include your name in italic font and 
 your student id in bold font as level 2 heading 
