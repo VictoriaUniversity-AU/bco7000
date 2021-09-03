@@ -98,11 +98,11 @@ pairwise_cor(value, id, sort = TRUE)
 `
 Write 1 sentence with your explanation of what insights it shows. (2 marks)
 
-13. Use `lm()` function to build a model that predict a family income based on data in the dataset. 8 marks
+13. Use `lm()` or randomForest() function to build a model that predict a family income based on data in the dataset. 8 marks
 
 Compare 3 models using different set of input variables. Use different number of variables.
 
-Explaiin your choice of variables (3 sentences) 
+Explain your choice of variables (3 sentences) 
 
 Write 2 sentences explaining which model os best.
 
