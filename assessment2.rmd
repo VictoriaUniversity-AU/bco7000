@@ -69,7 +69,7 @@ Write 2-3 sentences with your explanation of each insight. (4 marks)
 
 7. How many use cranberry sauce? How many use gravy? 2marks
 
-8. What is the distribution of those who celebrate across income ranges. Create a data viz.
+8-9. What is the distribution of those who celebrate across income ranges. Create a data viz.
 Write 2-3 sentences with your explanation of each insight. (4 marks)
 
 10. Use the following code to create a new data set 2 mark
