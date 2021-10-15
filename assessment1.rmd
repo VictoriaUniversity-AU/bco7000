@@ -32,35 +32,34 @@ Display the first 10 rows of the dataset and the first 5 variables
 
 Use Help and the link below to read more about those functions  https://bookdown.org/yihui/rmarkdown-cookbook/kable.html 
 
-8 Present the count observations from each restaurant in a descending order
-
-Show the number of distnct items on a menu in the dataset
-
 8. Display the observations that has more than 1000 calories
 
-9. Save observations with more than 40 in total_fat and more than 80 in total_carb in a new variable (dataset) called `dont_eat_this`
+9. Arrange observations with more than 40 in total_fat and more than 80 in total_carb in the descending order and save them to a new variable (dataset) called `dont_eat_this`
 
-10. Using the initial dataset variable, display observations from restaurant Mcdonalds.
+10. Using the initial dataset variable, use `case_when()` to create a new variable `heavy_food` which is equal to "heavy" when total calories are greater than 500, "low" when total calories are less than 250 and "average" for all other cases. Count the number of observations in each created category.
 
 11. Display the types of variables in the dataset using `skimr` package 
 
-12. 
+12. Present the count observations from each restaurant in a descending order
 
-13. Using grouppings (group_by()), summarise and display the average number of calories for each restaurant.
+Show the number of distnct items on a menu in the dataset
 
-14. Add a variable to the dataset, which calculates the average calories per type of restaurant and call it `average_calories` 
+13. Using groupings (group_by()), summarise and display the average number of calories for each restaurant.
+
+14. Add variables to the dataset, which:
+
+-  calculates the average calories per type of restaurant and call it `average_calories` 
+-  calculates the maximum total_fat per type of restaurant and call it `max_fat` 
+-  calculates the minimum cholesterol per type of restaurant and call it `min_cholesterol` 
 
 15. Display the data vis of total fat per each type of restaurant. Write a narration (2-3 sentences) why you believe this type of data viz presents such information best. 
 
-16. Add a variable to the dataset, which calculates the maximum total fat per type of restaurant and call it `max_total_fat` 
+16. Add a variable to the dataset, which calculates the sum of cholesterol and sodium and call it `cholesterol_sodium`.
+
+Remove the variable `salad`
 
 17. Use observations for Mcdonalds to plot sugar variable against protein with `geom_point()` 
 
-- Save your .rmd file 
-
-- Do a commit in Git tab
-
-- Push in the same tab
 
 **Focus**: ggplot2, factors, strings, dates  
 
@@ -84,4 +83,6 @@ Do not forget to save the updated dataset.
 
 Think carefully about the choice of data viz. Use coordinates and theme layers to make your data viz visually appealing and meaningful. 
 
+Save your file as .rmd
+Pull-commit-push it to github!
 
