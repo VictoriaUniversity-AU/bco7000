@@ -1,0 +1,23 @@
+---
+title: "Assessment 1"
+author: "Maria Prokofieva"
+date: "18/10/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+#RMarkdown editing
+
+
+*vvv*
+
+**bbb**
+
+```{r}
+fastfood<-read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2018/2018-09-04/fastfood_calories.csv")
+```
+
