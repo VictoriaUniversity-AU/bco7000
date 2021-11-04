@@ -87,7 +87,7 @@ select(id, starts_with("side"),
 
 Write 2-3 sentences with your explanation of what it does. (4 marks)
 
-11. Intall package `widyr` and use `pairwise_cor()` function https://www.rdocumentation.org/packages/widyr/versions/0.1.3/topics/pairwise_cor
+11-12. Intall package `widyr` and use `pairwise_cor()` function https://www.rdocumentation.org/packages/widyr/versions/0.1.3/topics/pairwise_cor
 Write 2-3 sentences with your explanation of what it does. (2 marks)
 
 Use this code for the new dataset
