@@ -26,10 +26,18 @@ You are asked to present this solution to the management to present them with op
 
 [Wine ratings](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-05-28)
 
-[Broadway](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-04-28/readme.md)
-
-[Dairy production & Consumption](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-01-29
-
 [Ramen rating](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-06-04)
 
-[Australian salaries](https://github.com/rfordatascience/tidytuesday/tree/master/data/2018/2018-04-23)
+[IKEA](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-11-03/readme.md)
+
+[Broadway](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-04-28/readme.md)
+
+[Pumpkin ratings](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-10-19/readme.md)
+
+[Park access and spending](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-06-22/readme.md)
+
+[GDPR Violations](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-04-21/readme.md)
+
+(House and mortgage data)[https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-02-05]
+
+[Shelters](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-12-01/readme.md)
