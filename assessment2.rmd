@@ -30,7 +30,7 @@ Your explanation of the data insights is VERY important as well as your code
 
 -----------
 
-### Part 1: formatting RMarkdown document  (2 marks)
+### Part 1: formatting RMarkdown document  
 
 1. Create an Rmarkdown document with webpage as output (same as in setup)
 
@@ -45,7 +45,7 @@ Separate with a solid line
 
 List all tasks in the assignment as headings of the third level and include your results (=output) below each task showing your R code. 
 
-### Part 2: Data Wrangling and visualization 38 marks
+### Part 2: Data Wrangling and visualization 
 
 For all tables below, you need to use the RMarkdown functionality to present tables (`kable`). 
 
@@ -111,3 +111,4 @@ Write 2 sentences explaining which model os best.
 RMarkdown tutorial https://rmarkdown.rstudio.com/lesson-1.html
 
 ggplot2: Elegant Graphics for Data Analysis https://ggplot2-book.org/
+Total marks for all steps = 45 which is 35 percent of total assessment in this unit.
